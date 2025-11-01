@@ -12,6 +12,7 @@ Hallitsen Pythonia parhaiten, mutta kielet, kuten C++, C# ja Go luonnistuvat my�
 
 ### Harjoitustyön ydin
 Aiheen ideana on tutustua eri pakkausalgoritmeihin, toteuttaa ne ja verrata niiden suorituskykyä keskenään.
+<br>
 Opiskelen TKT-kandidaattiohjelmassa.
 
 ### Lähteet
