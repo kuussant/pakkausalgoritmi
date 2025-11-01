@@ -15,7 +15,7 @@ Aiheen ideana on tutustua eri pakkausalgoritmeihin, toteuttaa ne ja verrata niid
 <br>
 Opiskelen TKT-kandidaattiohjelmassa.
 
-### Lähteet
+### Lähteet (toistaiseksi)
 [Introduction to algorithms](https://www.cs.mcgill.ca/~akroit/math/compsci/Cormen%20Introduction%20to%20Algorithms.pdf)
 <br>
 [Data Compression, The complete reference](https://archive.org/details/pdfy-Ezz1QE-FRYsgeVKU/mode/2up)
